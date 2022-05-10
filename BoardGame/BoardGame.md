@@ -1,1 +1,1 @@
-# I only in charge the reversi.java in src.
+# I only in charge the reversi.java in src/BoardGame.
