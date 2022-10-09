@@ -1,1 +1,1 @@
-# Some tiny program I wrote or writing.
+# Some tiny program I wrote.
